@@ -135,6 +135,12 @@ a{
  iframe{
 	width: 100%
  }
+	
+	
+.sidebar-right{
+	font-family: Arial, sans-serif;
+        font-size: 6px
+}
  figure img{
 	width: 100%
  }
