@@ -124,8 +124,9 @@ a{
 	display: block	 
  }	
  .container{
-    width: 100%;	 	 
- }	
+    width: 100%;	
+   margin: auto;
+ } 	 
  .sidebar-left, .main{
 	float: none;
 	width: 100%;
