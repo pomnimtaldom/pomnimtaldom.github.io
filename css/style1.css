@@ -130,6 +130,7 @@ a{
  .sidebar-right, .main{
 	float: none;
 	width: 100%;
+	font-size: 6px;
  }	
  .sidebar-right{ display: none }
  iframe{
