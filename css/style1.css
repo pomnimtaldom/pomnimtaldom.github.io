@@ -137,6 +137,9 @@ a{
  figure img{
 	width: 100%
  }
-	
+.body{ 
+  margin: auto;
+  background-position: center
+}
 }
 
