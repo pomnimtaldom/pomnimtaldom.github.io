@@ -135,7 +135,9 @@ a{
 	width: 100%
  }
  figure img{
-	width: 110%
+	width: 100%
  }
-  
+ .body{
+     margin: auto 
+ }
 
