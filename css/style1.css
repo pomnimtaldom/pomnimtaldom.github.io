@@ -141,4 +141,9 @@ a{
  body{
   font-size: 6px
 }
+body{
+  background-image: url(../img/sky.png);
+  background-repeat: no-repeat;
+  margin: auto;
+  background-position: center
 }
