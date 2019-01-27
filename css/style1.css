@@ -117,7 +117,7 @@ a{
 }
 
 
-@media screen and (max-width:700px) {
+@media screen and (max-width:768px) {
 	
  h1{ text-align: center }	
  header li {
@@ -137,7 +137,7 @@ a{
  figure img{
 	width: 100%
  }
- p{
+ body{
   font-family: Arial, sans-serif;
   font-size: 6px
 }
