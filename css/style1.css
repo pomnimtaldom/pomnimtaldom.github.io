@@ -3,7 +3,19 @@
   font-family:Arial, sans-seri;	
   color: #000
 }
+h1{ color: #000 }
 
+/*ДВУХКОЛОНОЧНАЯ СТРАНИЦА*/
+ header,
+ .sidebar-right,
+ .main,
+ footer{
+    /*border: 1px solid red*/
+ }
+ .sidebar-right{
+  width: 24%; 
+  float:right
+  }
 body{
   color: #555;
   font-family: Arial, sans-serif;
