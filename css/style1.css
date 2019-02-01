@@ -157,4 +157,7 @@ body{
 }
 body{
   background-image: none;
+  background-repeat: no-repeat;
+  margin: auto;
+  background-position: center
 }
