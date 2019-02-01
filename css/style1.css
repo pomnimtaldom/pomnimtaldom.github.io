@@ -156,8 +156,9 @@ body{
   font-size: 6px
 }
 body{
-  background-image: none;
+  background-image: url(../img/sky.png);
   background-repeat: no-repeat;
+  width: 110%
   margin: auto;
   background-position: center
 }
