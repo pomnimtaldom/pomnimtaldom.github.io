@@ -137,9 +137,10 @@ header li {
 display: block	 
  }	
  .container{
-    width: 100%;	
+    width: 1060px;	
    margin: auto;
  } 	 
+	 
  .sidebar-right, .main{
 	float: none;
 	width: 100%;
