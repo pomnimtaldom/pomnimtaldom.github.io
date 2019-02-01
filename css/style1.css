@@ -155,4 +155,6 @@ body{
   font-family: Arial, sans-serif;
   font-size: 6px
 }
-
+body{
+  background-image: none;
+}
