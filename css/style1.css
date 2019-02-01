@@ -3,19 +3,7 @@
   font-family:Arial, sans-seri;	
   color: #000
 }
-h1{ color: #000 }
 
-/*ДВУХКОЛОНОЧНАЯ СТРАНИЦА*/
- header,
- .sidebar-right,
- .main,
- footer{
-    /*border: 1px solid red*/
- }
- .sidebar-right{
-  width: 24%; 
-  float:right
-  }
 body{
   color: #555;
   font-family: Arial, sans-serif;
@@ -56,7 +44,7 @@ font-size:15px
 }
 
 body{
-  background-color: #e5f9e5;
+  background-image: url(../img/sky.png);
   background-repeat: no-repeat;
   margin: auto;
   background-position: center
@@ -126,31 +114,26 @@ a{
   float: none  
 }
 	
-}
 
-
-@media screen and (max-width:700px) 
-
+@media screen and (max-width:700px) {
 	
-h1{ text-align: center }	
-header li {
-display: block	 
+ h1{ text-align: center }	
+ header li {
+	display: block	 
  }	
  .container{
-    width: 1060px;	
-   margin: auto;
- } 	 
-	 
- .sidebar-right, .main{
+    width: 90%;	 	 
+ }	
+ .sidebar-left, .main{
 	float: none;
 	width: 100%;
-}	
- .sidebar-right{ display: none }
+ }	
+ .sidebar-left{ display: none }
  iframe{
 	width: 100%
  }
-	
-figure img{
+ figure img{
 	width: 100%
  }
+	
 
