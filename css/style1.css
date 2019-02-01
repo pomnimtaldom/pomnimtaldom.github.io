@@ -131,9 +131,13 @@ a{
 
 @media screen and (max-width:700px) {
 	
- h1{ text-align: center }	
- header li {
-	display: block	 
+body{
+	font-size: 1.4em
+} 
+	
+h1{ text-align: center }	
+header li {
+display: block	 
  }	
  .container{
     width: 100%;	
@@ -151,14 +155,4 @@ a{
 figure img{
 	width: 100%
  }
-body{
-  font-family: Arial, sans-serif;
-  font-size: 6px
-}
-body{
-  background-image: url(../img/sky.png);
-  background-repeat: no-repeat;
-  width: 110%
-  margin: auto;
-  background-position: center
-}
+
