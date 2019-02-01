@@ -130,17 +130,14 @@ a{
 
 
 @media screen and (max-width:700px) {
-	
-body{
-	font-size: 1em
-} 
+
 	
 h1{ text-align: center }	
 header li {
 display: block	 
  }	
  .container{
-    width: 100%;	
+    width: 90%;	
    margin: auto;
  } 	 
  .sidebar-right, .main{
